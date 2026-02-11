@@ -1,5 +1,3 @@
-# PROFIL-CV
-Buat Tugas Sekolah
 <!DOCTYPE html>
 <html>
 <head>
