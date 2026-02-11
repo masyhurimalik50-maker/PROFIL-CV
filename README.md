@@ -6,12 +6,12 @@
 </head>
 <body>
 
-<h1>Nama Kamu</h1>
+<h1>Malik Masyhuri Aritonang</h1>
 <p><strong>Junior Network Engineer</strong></p>
 
 <h2>Ringkasan</h2>
 <p>
-Siswa SMK TKJ yang memiliki pengalaman dasar
+Saya memiliki pengalaman dasar, yaitu
 konfigurasi jaringan, subnetting, dan Linux server.
 </p>
 
@@ -32,7 +32,7 @@ konfigurasi jaringan, subnetting, dan Linux server.
 <p>SMK – Teknik Komputer dan Jaringan</p>
 
 <h2>Kontak</h2>
-<p>Email: emailkamu@gmail.com</p>
+<p>Email: masyhurimalik50@gmail.com</p>
 
 </body>
 </html>
