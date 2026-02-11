@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-  <h1>Nama Kamu</h1>
+  <h1>Malik Masyhuri Aritonang</h1>
   <p>Junior Network Engineer</p>
 
   <h2>Skill</h2>
