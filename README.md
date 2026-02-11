@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html>
+  git clone https://github.com/username/username.github.io.git
+cd username.github.io
 <body>
   <h1>Malik Masyhuri Aritonang</h1>
   <p>Junior Network Engineer</p>
