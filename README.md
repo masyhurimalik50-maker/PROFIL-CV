@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>CV - Nama Kamu</title>
-</head>
 <body>
   <h1>Nama Kamu</h1>
   <p>Junior Network Engineer</p>
