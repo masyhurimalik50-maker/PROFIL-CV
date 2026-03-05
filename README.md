@@ -1,247 +1,92 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+# HALO, SAYA [NAMA LENGKAP KAMU] 👋
 
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>fajaribrahim.github.io | mynameism.fazaribrahim</title>
-<meta name="generator" content="Jekyll v3.10.0" />
-<meta property="og:title" content="fajaribrahim.github.io" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="mynameism.fazaribrahim" />
-<meta property="og:description" content="mynameism.fazaribrahim" />
-<link rel="canonical" href="https://fajarnocounter5-lgtm.github.io/fajaribrahim.github.io/" />
-<meta property="og:url" content="https://fajarnocounter5-lgtm.github.io/fajaribrahim.github.io/" />
-<meta property="og:site_name" content="fajaribrahim.github.io" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="fajaribrahim.github.io" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"mynameism.fazaribrahim","headline":"fajaribrahim.github.io","name":"fajaribrahim.github.io","url":"https://fajarnocounter5-lgtm.github.io/fajaribrahim.github.io/"}</script>
-<!-- End Jekyll SEO tag -->
+![Banner atau Foto Profil](URL_GAMBAR_BANNER_ATAU_FOTO_LINKEDIN)
 
-    <link rel="stylesheet" href="/fajaribrahim.github.io/assets/css/style.css?v=9e47d578cad65666b7b1ae44e6d6349d62007c4f">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+Saya adalah seorang **[Peran Kamu, mis: Web Developer / Data Analyst / Mahasiswa]** yang bersemangat dalam menciptakan solusi digital yang efektif dan efisien. Saya sangat menikmati dunia [Bidang yang Kamu Sukai, mis: Frontend Development / Data Science / Open Source].
 
-<!-- Setup Google Analytics -->
+Saat ini, saya sedang fokus mempelajari [Teknologi yang Sedang Dipelajari] dan aktif mencari peluang kolaborasi di proyek open source.
 
+- 🌱 **Saat ini saya sedang mempelajari:** [Teknologi A], [Teknologi B]
+- 👯 **Saya ingin berkolaborasi dalam:** Proyek [Bidang Tertentu]
+- 📫 **Hubungi saya:** [Email Kamu] | [LinkedIn Profile] | [Portfolio Website]
 
+---
 
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/fajaribrahim.github.io/favicon.ico" -->
+## ⚙️ Teknologi & Tools
 
-<!-- end custom head snippets -->
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-  </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://fajarnocounter5-lgtm.github.io/fajaribrahim.github.io/">fajaribrahim.github.io</a></h1>
-      
+---
 
-      
-<html lang="id">
-<head>
-  <meta charset="UTF-8" />
-  <title>CV Fazar Ibrahim</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+## 💼 Pengalaman Kerja / Proyek
 
-  <style>
-    body {
-      margin: 0;
-      font-family: "Segoe UI", Arial, sans-serif;
-      background: #ddd;
-    }
+**Nama Perusahaan / Proyek** | *Bulan Tahun - Bulan Tahun*
+*Posisi / Role*
 
-    .cv {
-      max-width: 1000px;
-      margin: auto;
-      background: #fff;
-      display: grid;
-      grid-template-columns: 320px 1fr;
-      min-height: 100vh;
-    }
+- Deskripsi singkat tentang proyek atau tanggung jawabmu.
+- Poin-poin pencapaian menggunakan kata kerja aktif. Contoh: "Meningkatkan performa website hingga 30% dengan mengoptimalkan gambar."
+- Teknologi yang digunakan: `React`, `Tailwind`, `Firebase`.
 
-    /* ===== HEADER ===== */
-    .header {
-      grid-column: 1 / -1;
-      background: #3e4147;
-      color: white;
-      padding: 30px;
-      display: flex;
-      align-items: center;
-      gap: 20px;
-    }
+**Nama Perusahaan / Proyek Sebelumnya** | *Bulan Tahun - Bulan Tahun*
+*Posisi / Role*
 
-    .photo img {
-      width: 90px;
-      height: 90px;
-      border-radius: 50%;
-      object-fit: cover;
-      border: 3px solid white;
-    }
+- Deskripsi singkat tentang proyek atau tanggung jawabmu.
+- Poin-poin pencapaian. Contoh: "Berkolaborasi dengan tim backend untuk mengintegrasikan API pembayaran."
+- Teknologi yang digunakan: `Laravel`, `MySQL`.
 
-    .header h1 {
-      margin: 0;
-      font-size: 28px;
-    }
+---
 
-    .header p {
-      margin: 5px 0 0;
-      font-size: 16px;
-      opacity: 0.9;
-    }
+## 🎓 Pendidikan
 
-    /* ===== SIDEBAR ===== */
-    .sidebar {
-      background: #f1ece6;
-      padding: 30px;
-    }
+**[Nama Universitas / Sekolah]** | *Tahun Lulus (atau Exp. 202X)*
+*Gelar / Jurusan, mis: S1 Teknik Informatika*
 
-    .sidebar h3 {
-      margin-top: 0;
-      border-bottom: 2px solid #555;
-      padding-bottom: 5px;
-      font-size: 18px;
-    }
+- **IPK:** 3.XX (Opsional)
+- **Skripsi / Tugas Akhir:** "Judul Skripsi atau Proyek Akhir Kamu"
 
-    .sidebar p,
-    .sidebar li {
-      font-size: 14px;
-      color: #333;
-    }
+**[Nama SMA / SMK]** | *Tahun Lulus*
+*Jurusan (Jika SMK)*
 
-    .sidebar ul {
-      padding-left: 18px;
-    }
+---
 
-    /* ===== MAIN CONTENT ===== */
-    .content {
-      padding: 30px;
-    }
+## 📂 Portofolio Unggulan
 
-    .content h2 {
-      margin-top: 0;
-      border-bottom: 2px solid #000;
-      padding-bottom: 5px;
-      font-size: 20px;
-    }
+Berikut adalah beberapa proyek yang pernah saya kerjakan:
 
-    .content p {
-      font-size: 14px;
-      line-height: 1.6;
-      color: #333;
-    }
+### [Nama Proyek 1]
+![Preview Proyek 1](URL_GAMBAR_PREVIEW)
+**Deskripsi:** Aplikasi untuk [fungsi aplikasi]. Aplikasi ini dibuat untuk menyelesaikan masalah [masalah tertentu].
+**Fitur:** Login, CRUD Data, Laporan PDF.
+**Teknologi:** `React Native`, `Express.js`, `MongoDB`
+🔗 [Link Demo](URL_DEMO) | 📁 [Link Repository](URL_REPO_GITHUB)
 
-    .content ul {
-      padding-left: 18px;
-      font-size: 14px;
-    }
+### [Nama Proyek 2]
+![Preview Proyek 2](URL_GAMBAR_PREVIEW)
+**Deskripsi:** Website portofolio pribadi dengan desain minimalis dan responsif.
+**Teknologi:** `HTML`, `CSS`, `JavaScript`
+🔗 [Link Demo](URL_DEMO) | 📁 [Link Repository](URL_REPO_GITHUB)
 
-    .job {
-      margin-bottom: 20px;
-    }
+---
 
-    .job strong {
-      display: block;
-      font-size: 15px;
-    }
+## 🏆 Sertifikasi & Penghargaan
 
-    .job span {
-      font-size: 13px;
-      color: #666;
-    }
+- **[Nama Sertifikat]** - *Penerbit* (Tahun)
+- **Juara 1 [Nama Lomba]** - *Tingkat [Kota/Provinsi]* (Tahun)
 
-    /* ===== RESPONSIVE ===== */
-    @media (max-width: 768px) {
-      .cv {
-        grid-template-columns: 1fr;
-      }
+---
 
-      .header {
-        flex-direction: column;
-        text-align: center;
-      }
-    }
-  </style>
-</head>
+## 📊 Statistik GitHub
 
-<body>
+![Statistik GitHub Kamu](https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=tokyonight)
+![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=tokyonight)
 
-<div class="cv">
+---
 
-  <!-- HEADER -->
-  <div class="header">
-    <div class="photo">
-      <!-- Ganti foto.jpg dengan foto kamu -->
-      <img src="IMG_20250507_134840.jpg" />
-    </div>
-    <div>
-      <h1>Fazar Ibrahim</h1>
-      <p>Siswa SMKN 1 RANGKASBITUNG – Teknik Jaringan Komputer dan Telekomunikasi</p>
-    </div>
-  </div>
-
-  <!-- SIDEBAR -->
-  <aside class="sidebar">
-    <h3>Detail Kontak</h3>
-    <p>📧 fazaribrahum@email.com</p>
-    <p>📞 083815279890</p>
-    <p>📍 Rangkasbitung Lebak Banten</p>
-
-    <h3>Pendidikan</h3>
-    <ul>
-      <li>
-        <strong>SMKN 1 RANGKASBITUNG</strong><br />
-        Teknik Komputer dan Jaringan<br />
-        Tahun Ajaran 2025/2026
-      </li>
-    </ul>
-
-    <h3>Keterampilan</h3>
-    <ul>
-      <li>Networking Dasar</li>
-      <li>Microsoft Office</li>
-      <li>HTML &amp; CSS Dasar</li>
-      <li>Administrasi</li>
-    </ul>
-  </aside>
-
-  <!-- MAIN CONTENT -->
-  <main class="content">
-    <h2>Ringkasan</h2>
-    <p>
-      Siswa SMKN 1 RANGKASBITUNG jurusan Teknik Komputer dan Jaringan yang memiliki minat di
-      bidang IT dan jaringan komputer. Terbiasa bekerja secara rapi,
-      disiplin, dan bertanggung jawab.
-    </p>
-
-    <h2>Pengalaman Kerja</h2>
-
-    <div class="job">
-      <strong>PKL – Diskominfo</strong>
-      <span>Juli 2024 – November 2024</span>
-      <ul>
-        <li>Membantu pengelolaan dan dokumentasi administrasi.</li>
-        <li>Konfigurasi jaringan dasar menggunakan Cisco Packet Tracer.</li>
-        <li>Mendukung kegiatan operasional lapangan.</li>
-      </ul>
-    </div>
-
-    &lt;
-  </main>
-
-</div>
-
-</body>
-</html>
-
-
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  </body>
-</html>
+📫 **Tertarik untuk berdiskusi?** Hubungi saya melalui email di [emailkamu@domain.com](mailto:emailkamu@domain.com) atau langsung saja kirim DM di [LinkedIn](URL_LINKEDIN_KAMU).
